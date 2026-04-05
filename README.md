@@ -2,7 +2,6 @@
 Full ML pipeline on corrupted sensor data — data cleaning, EDA, from-scratch  Logistic Regression/kNN/PCA/k-means, Random Forest, MLP — occupancy detection
 
 
-# Occupancy Detection — Full ML Pipeline
 
 
 **Dataset:** Room occupancy sensor data (Temperature, Humidity, Light, CO2, HumidityRatio)  
