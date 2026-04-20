@@ -1,5 +1,5 @@
 # occupancy-detection-ml-pipeline
-Full ML pipeline on corrupted sensor data — data cleaning, EDA, from-scratch  Logistic Regression/kNN/PCA/k-means, Random Forest, MLP — occupancy detection
+Full ML pipeline on corrupted sensor data — data cleaning, EDA, from-scratch  Logistic Regression/kNN/PCA/k-means, Random Forest, MLP - occupancy detection
 
 
 
@@ -7,14 +7,14 @@ Full ML pipeline on corrupted sensor data — data cleaning, EDA, from-scratch  
 **Dataset:** Room occupancy sensor data (Temperature, Humidity, Light, CO2, HumidityRatio)  
 **Task:** Binary classification — predict whether a room is occupied (1) or not (0)
 
----
+
 
 ## What This Project Does
 
 End-to-end machine learning pipeline on a **deliberately corrupted** real-world 
 sensor dataset, covering every stage from raw data to final test evaluation.
 
----
+
 
 ## Pipeline Stages
 
@@ -73,6 +73,6 @@ evaluated **once** on held-out test set:
 - ROC curve + AUC
 - Precision-Recall curve
 
----
+
 
 ## Tech Stack
